@@ -33,7 +33,7 @@ HUGO_ENABLEGITINFO = "true"
   from = "/instructions"
   to = "/docs/the-challenge"
   force = true
-
+[[redirects]]
   from = "/newsletter"
   to = "/docs/the-challenge"
   force = true
