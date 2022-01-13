@@ -34,3 +34,7 @@ HUGO_ENABLEGITINFO = "true"
   to = "/docs/the-challenge"
   force = true
 
+  from = "/newsletter"
+  to = "/docs/the-challenge"
+  force = true
+

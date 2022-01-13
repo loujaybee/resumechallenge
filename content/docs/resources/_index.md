@@ -21,10 +21,3 @@ Challenger Jesus Rodriguez generously gave his time to translate [the AWS challe
 
 ### The Cloud Guru Challenges
 Created under my supervision back when I worked at A Cloud Guru, [these projects](https://acloudguru.com/blog/tag/cloudguruchallenge) are part of a larger attempt to extend the general challenge format, and the response has mostly been pretty good. I'd suggest starting with [the COVID-19 tracking project I created](https://acloudguru.com/blog/engineering/cloudguruchallenge-python-aws-etl). Note that each of these projects includes "extra credit" ideas for making it your own - take advantage of that, as most folks don't!
-
-### The Best Jobs in Cloud
-My regular ["Best Jobs in Cloud" newsletter](/newsletter) rounds up job opportunities from people I know and trust in the cloud community. The best part: each job comes with direct contact information to reach out to an internal referral inside the company, no blind applications required. 
-
-The job roles range from junior to senior, and many of these hiring managers are familiar with the Cloud Resume Challenge and love to hire champions. If you've bought [the book](/book), you're already subscribed to The Best Jobs in Cloud at no extra charge. If not, you can sign up [here](https://cloudirregular.substack.com).
-
-
