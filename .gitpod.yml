@@ -1,0 +1,7 @@
+tasks:
+  - init: brew install hugo
+    command: ./dev-environment.sh
+
+ports:
+  - port: 3000
+    onOpen: open-browser
