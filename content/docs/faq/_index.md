@@ -1,7 +1,7 @@
 
 ---
 title: "Challenge FAQ"
-weight: 1
+weight: 2
 ---
 
 {{< tip >}}

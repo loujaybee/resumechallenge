@@ -2,7 +2,7 @@
 title: "Helpful resources"
 description: "Resources curated from the community to help you crush the Cloud Resume Challenge"
 images: ['images/resume.png']
-weight: 1
+weight: 3
 ---
 
 Have you created an awesome tutorial video or blog about the Cloud Resume Challenge that should be on this page? Have you created your own challenge prompt using the Cloud Resume Challenge format? Feel free to [submit a pull request](https://github.com/forrestbrazeal/resumechallenge)!
